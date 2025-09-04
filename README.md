@@ -76,10 +76,16 @@ Senior data strategist and research infrastructure expert with 15+ years' experi
 ### Education
 
 **Ph.D., Statistics** — La Trobe University, Australia (2015–2020)
-*Dissertation: Simulation pipelines and estimator performance in computational metascience*
+
+*Dissertation topic (multiple publications): Large-scale simulation pipelines and estimator performance in computational metascience*
 
 **B.Sc. (First Class Hons), Mathematics & Statistics** — La Trobe University (2011–2015)
+
+*Dissertation topic (published in full): Theorem in quasi-primal algebras and homomorphism partial orders*
+
 **B.A./B.Mus., Cinema Studies & Musicology** — University of Melbourne (2001–2007)
+
+*Dissertation topic: Postcolonialism and exoticism in the music of Disney animated feature films*
 
 ---
 
