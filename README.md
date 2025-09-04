@@ -6,6 +6,8 @@ Copenhagen, Denmark | charlestigray@gmail.com | (+45) 55 23 61 68
 [LinkedIn](https://www.linkedin.com/in/charles-t-gray/) | [GitHub](https://github.com/softloud) | [Website](https://softloud.github.io/good-enough/)| [Publications](https://scholar.google.com/citations?user=7ZGTepkAAAAJ&hl=en) | [Coding portfolio](https://softloud.github.io/good-enough/research/research.html#code)   
 
 ---
+![](codelikeagirl.jpg)
+---
 
 ### Professional Summary
 Data architecture and research infrastructure expert with 15+ years of experience spanning statistical computing, open science, and enterprise analytics. I specialise in designing **reproducible, testable, and reusable data systems** — and navigating the organisational change needed to support them. Whether advocating for FAIR principles or replacing tangled spreadsheet ecosystems with semantic models and observability, I focus on building **long-term value, not hype**. I’m seeking roles that recognise data architecture as strategy, not a solo heroic act.
