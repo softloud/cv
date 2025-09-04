@@ -21,7 +21,7 @@ Senior data strategist and research infrastructure expert with 15+ years' experi
 ### Career Highlights
 
 * ✨ **Heidelberg Laureate Forum Featured Scientist** — selected for combining mathematics, music, and storytelling at one of the world's most prestigious scientific gatherings.
-* 🎤 **Keynote Speaker** — World Science Festival, Melbourne Writers Festival, and the Australian Mathematical Sciences Institute Choose Maths Campaign — [watch "The Harmony of Maths"](https://www.youtube.com/watch?v=o0Rqz8Hgacc). Known for translating technical concepts with clarity and creativity.
+* 🎤 **Keynote Speaker** — World Science Festival, Melbourne Writers Festival, and the Australian Mathematical Sciences Institute *Choose Maths* Campaign — [watch "The Harmony of Maths"](https://www.youtube.com/watch?v=o0Rqz8Hgacc). Known for translating technical concepts with clarity and creativity.
 * 🧹 **Sole Architect of Full Data Stack** — Designed and maintained a full DBT–SQL–Python–Tableau stack for a mobile game studio, including semantic marts, telemetry pipelines, and custom observability macros.
 * 🚀 **Led ESG Data Strategy** — Proposed and delivered FAIR-aligned infrastructure in an enterprise setting to support sustainability reporting and governance.
 * 📈 **Pioneered Simulation Pipelines** — Created open-source tooling for robust statistical inference, now [widely cited](https://scholar.google.com/citations?user=7ZGTepkAAAAJ&hl=en) across metascience and reproducibility communities.
@@ -30,7 +30,7 @@ Senior data strategist and research infrastructure expert with 15+ years' experi
 
 ### Professional Experience
 
-**Senior Data & Infrastructure Consultant**
+**Senior Data, Infrastructure, & Analytics Consultant**
 *Freelance / Contract Roles — 2019–Present*
 
 * Delivered end-to-end **data architecture solutions** using DBT, Dagster, Redshift, Snowflake, PowerBI, Tableau, R, and Python — from ingestion to semantic layers.
@@ -51,7 +51,7 @@ Senior data strategist and research infrastructure expert with 15+ years' experi
 
 ### Selected Speaking & Community Leadership
 
-* **Invited Speaker** — DBT Meetup Copenhagen, PyData Copenhagen, useR Group
+* **Invited Speaker** — DBT Meetup Copenhagen, PyData Copenhagen, useR Group, and many more over 10+ years
 * **Mentor, Organiser, Advocate** — Code Like a Girl, R-Ladies Global, Women in Data & Analytics Nordics
 * **Featured In** — *Womanthology* magazine, AMSI *Choose Maths* campaign
 
@@ -59,17 +59,17 @@ Senior data strategist and research infrastructure expert with 15+ years' experi
 
 ### Skills
 
-**Infrastructure & Engineering:** DBT, Dagster, SQL, Redshift, Snowflake, Azure, Python, R
+**Infrastructure & Engineering:** DBT, Dagster, SQL, Redshift, Snowflake, Azure, Python, R, Dot, Shell, Linux
 
 **Data Strategy & Governance:** Semantic modelling, observability, testing, documentation workflows
 
-**Collaboration & Delivery:** Git, Jira, Monday, ClickUp, Agile, technical product management
+**Collaboration & Delivery:** Git, Jira, Monday, ClickUp, Agile, technical product management using dashboards, automations, epic-level reporting, and graph-oriented project planning
 
 **Reproducibility & Open Science:** R Markdown, Quarto, Targets, FAIR workflows
 
 **Communication:** Data storytelling, technical writing, cross-team leadership
 
-**Prompt Engineering:** Daily use of Claude and Copilot to accelerate dev workflows, unblock busywork, and prototype infrastructure — and yes, I absolutely used a CV GPT to help edit this for industry language ✨
+**Prompt Engineering:** Daily use of Claude and Copilot to accelerate dev workflows, unblock busywork, and prototype infrastructure — and yes, I absolutely used a CV GPT to help edit this to target data strategy and storytelling roles ✨
 
 ---
 
