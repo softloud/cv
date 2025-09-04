@@ -49,9 +49,10 @@ Data architecture and research infrastructure expert with 15+ years of experienc
 
 ### Selected Speaking & Community Leadership
 - **Invited Speaker** — DBT Meetup Copenhagen, PyData Copenhagen, useR Group
-- **Organiser** — Women in Data & Analytics Nordics
-- **Mentor/Consultant** — Hack Your Future, Code Like a Girl, R-Ladies Global
-- **Featured In** — *Womanthology, How I Fail, The Harmony of Maths, SMH* (national STEM campaign)
+- **Mentor/Consultant/Organiser** — Code Like a Girl, R-Ladies Global, Women in Data & Analytics Nordics, and many women in STEM initiatives
+- **Featured In** — Various magazines and newpapers: *Womanthology* magazine, Australian Mathematical Sciences Institute *Choose Maths* campaign
+
+![](<iframe width="560" height="315" src="https://www.youtube.com/embed/o0Rqz8Hgacc?si=TmuiuIOGaH2luIWx&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>)
 
 ---
 
