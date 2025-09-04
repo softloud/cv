@@ -13,7 +13,7 @@ Copenhagen, Denmark | charlestigray@gmail.com | (+45) 55 23 61 68
 ---
 
 ### Professional Summary
-Data architecture and research infrastructure expert with 15+ years of experience spanning statistical computing, open science, and enterprise analytics. I specialise in designing **reproducible, testable, and reusable data systems** — and navigating the organisational change needed to support them. Whether advocating for FAIR principles or replacing tangled spreadsheet ecosystems with semantic models and observability, I focus on building **long-term value, not hype**. I’m seeking roles that recognise data architecture as strategy, not a solo heroic act.
+Data architecture and research infrastructure expert with 15+ years of experience spanning statistical computing, open science, and enterprise analytics. I specialise in designing **reproducible, testable, and reusable data systems and data visualisation that tells meaningful stories** — as well as navigating the organisational change needed to support automation. Whether advocating for FAIR principles or replacing tangled spreadsheet ecosystems with semantic models and observability, I focus on building **long-term value, not hype**. I’m seeking roles that recognise data architecture as strategy, not a solo heroic act.
 
 ---
 
@@ -41,7 +41,7 @@ Data architecture and research infrastructure expert with 15+ years of experienc
 *University & Research Institutions — 2012–2019*
 
 - Designed **hierarchical Bayesian modelling pipelines** for large-scale evidence synthesis.
-- Taught and developed curricula for courses in **statistical computing, algorithms, and meta-analysis**.
+- Taught and developed curricula for courses in **statistical computing, algorithms, data visualisation, and meta-analysis**.
 - Built and maintained **simulation workflows** for exploring statistical estimator performance under varied conditions.
 - Advocated for and implemented reproducible practices in interdisciplinary scientific teams.
 
