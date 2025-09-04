@@ -22,7 +22,7 @@ Data architecture and research infrastructure expert with 15+ years of experienc
 - 🎤 **Keynote speaker** at World Science Festival and Melbourne Writers Festival & the Australian Mathematical Sciences Institute [Choose Maths](https://www.youtube.com/watch?v=o0Rqz8Hgacc) campagin — known for communicating technical concepts with clarity and passion.
 - 🧹 **Built entire data stack** (DBT, SQL, Python, Tableau) solo for mobile gaming company — from semantic marts to custom observability macros.
 - 🚀 **Led ESG data strategy** in enterprise context — proposed FAIR-aligned infrastructure to support long-term sustainability metrics.
-- 📈 **Simulated robust pipelines** for statistical inference in academic research — now widely cited in open science circles.
+- 📈 **Simulated robust pipelines** for statistical inference in academic research (h-index 10) — now [widely cited](https://scholar.google.com/citations?user=7ZGTepkAAAAJ&hl=en) in open science circles.
 
 ---
 
