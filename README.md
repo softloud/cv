@@ -1,3 +1,5 @@
+### CV | Resume
+
 **Charles T. Gray, PhD**
 Senior Data Strategist | Infrastructure Consultant | FAIR Data Advocate  
 Copenhagen, Denmark | charlestigray@gmail.com | (+45) 55 23 61 68  
