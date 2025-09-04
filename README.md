@@ -19,7 +19,7 @@ Data architecture and research infrastructure expert with 15+ years of experienc
 
 ### Career Highlights
 - ✨ **Heidelberg Laureate Forum Featured Scientist** — selected for combining mathematics, music, and storytelling at one of the world's most prestigious scientific gatherings.
-- 🎤 **Keynote speaker** at World Science Festival and Melbourne Writers Festival — known for communicating technical concepts with clarity and passion.
+- 🎤 **Keynote speaker** at World Science Festival and Melbourne Writers Festival & the Australian Mathematical Sciences Institute [Choose Maths](https://www.youtube.com/watch?v=o0Rqz8Hgacc) campagin — known for communicating technical concepts with clarity and passion.
 - 🧹 **Built entire data stack** (DBT, SQL, Python, Tableau) solo for mobile gaming company — from semantic marts to custom observability macros.
 - 🚀 **Led ESG data strategy** in enterprise context — proposed FAIR-aligned infrastructure to support long-term sustainability metrics.
 - 📈 **Simulated robust pipelines** for statistical inference in academic research — now widely cited in open science circles.
@@ -51,8 +51,6 @@ Data architecture and research infrastructure expert with 15+ years of experienc
 - **Invited Speaker** — DBT Meetup Copenhagen, PyData Copenhagen, useR Group
 - **Mentor/Consultant/Organiser** — Code Like a Girl, R-Ladies Global, Women in Data & Analytics Nordics, and many women in STEM initiatives
 - **Featured In** — Various magazines and newpapers: *Womanthology* magazine, Australian Mathematical Sciences Institute *Choose Maths* campaign
-
-![](<iframe width="560" height="315" src="https://www.youtube.com/embed/o0Rqz8Hgacc?si=TmuiuIOGaH2luIWx&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>)
 
 ---
 
