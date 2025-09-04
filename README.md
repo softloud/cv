@@ -60,10 +60,15 @@ Senior data strategist and research infrastructure expert with 15+ years' experi
 ### Skills
 
 **Infrastructure & Engineering:** DBT, Dagster, SQL, Redshift, Snowflake, Azure, Python, R
+
 **Data Strategy & Governance:** Semantic modelling, observability, testing, documentation workflows
+
 **Collaboration & Delivery:** Git, Jira, Monday, ClickUp, Agile, technical product management
+
 **Reproducibility & Open Science:** R Markdown, Quarto, Targets, FAIR workflows
+
 **Communication:** Data storytelling, technical writing, cross-team leadership
+
 **Prompt Engineering:** Daily use of Claude and Copilot to accelerate dev workflows, unblock busywork, and prototype infrastructure — and yes, I absolutely used a CV GPT to help edit this for industry language ✨
 
 ---
