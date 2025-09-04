@@ -6,7 +6,7 @@ Senior Data Strategist | Infrastructure Consultant | FAIR Data Advocate
 
 Copenhagen, Denmark | charlestigray@gmail.com | (+45) 55 23 61 68  
 
-[LinkedIn](https://www.linkedin.com/in/charles-t-gray/) | [GitHub](https://github.com/softloud) | [Website](https://softloud.github.io/good-enough/)| [Publications](https://scholar.google.com/citations?user=7ZGTepkAAAAJ&hl=en) | [Coding portfolio](https://softloud.github.io/good-enough/research/research.html#code)   
+[LinkedIn](https://www.linkedin.com/in/charles-t-gray/) | [GitHub](https://github.com/softloud) | [Website](https://softloud.github.io/good-enough/)| [Publications](https://scholar.google.com/citations?user=7ZGTepkAAAAJ&hl=en) | [Coding portfolio](https://softloud.github.io/good-enough/research/research.html#code) | [Bio](https://softloud.github.io/good-enough/lab.html#dr-charles-t.-gray-cto-datapunk-founder)   
 
 ---
 ![](codelikeagirl.jpg)
@@ -20,7 +20,7 @@ Data architecture and research infrastructure expert with 15+ years of experienc
 ### Career Highlights
 - ✨ **Heidelberg Laureate Forum Featured Scientist** — selected for combining mathematics, music, and storytelling at one of the world's most prestigious scientific gatherings.
 - 🎤 **Keynote speaker** at World Science Festival and Melbourne Writers Festival & the Australian Mathematical Sciences Institute [Choose Maths](https://www.youtube.com/watch?v=o0Rqz8Hgacc) campagin — known for communicating technical concepts with clarity and passion.
-- 🧹 **Built entire data stack** (DBT, SQL, Python, Tableau) solo for mobile gaming company — from semantic marts to custom observability macros.
+- 🧹 **Built entire data stack** (DBT, SQL, Python, Tableau) solo for mobile gaming company — from semantic marts to custom observability macros to Tableau dashboards reporting KPIs, telemetry, & player behaviour analytics.
 - 🚀 **Led ESG data strategy** in enterprise context — proposed FAIR-aligned infrastructure to support long-term sustainability metrics.
 - 📈 **Simulated robust pipelines** for statistical inference in academic research (h-index 10) — now [widely cited](https://scholar.google.com/citations?user=7ZGTepkAAAAJ&hl=en) in open science circles.
 
@@ -31,7 +31,7 @@ Data architecture and research infrastructure expert with 15+ years of experienc
 **Senior Data & Infrastructure Consultant**  
 *Freelance / Contract Roles — 2019–Present*
 
-- Led end-to-end **data architecture projects** using DBT, Redshift, Tableau, and Python — from raw ingestion to semantic layer.
+- Led end-to-end **data architecture projects** using DBT, Dagster, Redshift, Snowflake, PowerBI, Tableau, R, and Python — from raw ingestion to semantic layer.
 - Advocated and implemented **governance-first approaches**: versioned simulation pipelines, testing macros, CI/CD for data models.
 - Served as **de facto product manager** in multiple roles — scoping, delivering, and aligning technical vision with business outcomes.
 - Navigated complex environments (including ESG reporting) where technical change required **organisational alignment**.
@@ -55,9 +55,9 @@ Data architecture and research infrastructure expert with 15+ years of experienc
 ---
 
 ### Skills
-**Infrastructure & Engineering:** DBT, Dagster, SQL, Redshift, Python, R  
+**Infrastructure & Engineering:** DBT, Dagster, SQL, Redshift, Snowflake, Azure, Python, R  
 **Data Strategy & Governance:** Semantic modelling, observability, data testing, documentation workflows  
-**Collaboration & Delivery:** Git, Jira, Agile, technical product management  
+**Collaboration & Delivery:** Git, Jira, Monday, Clilckup, Agile, technical product management  
 **Reproducibility & Open Science:** R Markdown, Quarto, Targets, FAIR workflows  
 **Communication:** Data storytelling, technical writing, cross-team leadership
 
