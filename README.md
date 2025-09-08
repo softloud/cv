@@ -77,9 +77,9 @@ Senior data strategist and research infrastructure expert with 15+ years' experi
 
 ### Education
 
-**Ph.D., Statistics** — La Trobe University, Australia (2015–2020)
+**Ph.D., Reproducible Analytics Engineering** *(awarded by the [Department of Statistics](https://www.latrobe.edu.au/statistics))* — La Trobe University, Australia (2015–2020)  
 
-*Dissertation topic (multiple publications): Large-scale simulation pipelines and estimator performance in computational metascience*
+*Research focus: Engineered large-scale simulation pipelines for estimator evaluation in metascience. Developed reproducible, testable, and extensible statistical software — now [widely cited](https://scholar.google.com/citations?user=7ZGTepkAAAAJ&hl=en) across open science communities.*
 
 **B.Sc. (First Class Hons), Mathematics & Statistics** — La Trobe University (2011–2015)
 

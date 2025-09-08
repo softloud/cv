@@ -1,9 +1,11 @@
 # chmod +x convert_md_to_pdf.sh
 # ./convert_md_to_pdf.sh
 
-pandoc charles_gray_resume.md \
-  -o charles-gray-resume.pdf \
+pandoc README.md \
+  --from markdown \
   --pdf-engine=xelatex \
-  -V geometry:margin=1in \
-  -V fontsize=11pt \
-  -V mainfont="Helvetica"
+  -V mainfont="TeX Gyre Heros" \
+  -V geometry=margin=1in \
+  -V colorlinks=true \
+  -V linkcolor=blue \
+  -o cv.pdf
