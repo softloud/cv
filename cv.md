@@ -6,7 +6,7 @@ Senior Data Strategist | Infrastructure Consultant | [FAIR](https://www.go-fair.
 
 Aarhus, Denmark | [charlestigray@gmail.com](mailto:charlestigray@gmail.com) | (+45) 55 23 61 68 | She/her
 
-[LinkedIn](https://www.linkedin.com/in/charles-t-gray/) | [GitHub](https://github.com/softloud) | [Website](https://softloud.github.io/good-enough/) | [Publications](https://scholar.google.com/citations?user=7ZGTepkAAAAJ&hl=en) | [Coding Portfolio](https://softloud.github.io/good-enough/research/research.html#code) | [Bio](https://softloud.github.io/good-enough/lab.html#dr-charles-t.-gray-cto-datapunk-founder)
+ [GitHub](https://github.com/softloud) | [Publications](https://scholar.google.com/citations?user=7ZGTepkAAAAJ&hl=en) | [Data Storytelling Portfolio](README.md) 
 
 ---
 
