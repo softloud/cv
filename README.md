@@ -2,6 +2,8 @@
 
 Click the links to explore each project in detail.
 
+[Check out my cv](charles-t-gray-cv.pdf).
+
 ### Supermetroid speedrunners' analysis
 
 For Pydata Copenhagen 2022, I [analysed rankings of Supermetroid](https://softloud.github.io/supermetroid/#analyses-work-in-progress) to explore route strategies among speedrunners.
