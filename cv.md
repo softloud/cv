@@ -4,7 +4,7 @@
 
 Senior Data Strategist | Infrastructure Consultant | [FAIR](https://www.go-fair.org/fair-principles/) Data Advocate | Data Storyteller
 
-Aarhus, Denmark | [charlestigray@gmail.com](mailto:charlestigray@gmail.com) | (+45) 55 23 61 68 | She/her
+Aarhus, Denmark | She/her
 
  [GitHub](https://github.com/softloud) | [Publications](https://scholar.google.com/citations?user=7ZGTepkAAAAJ&hl=en) | [Data Storytelling Portfolio](README.md) 
 
