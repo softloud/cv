@@ -2,7 +2,7 @@
 
 Click the links to explore each project in detail.
 
-[Check out my cv](cv.md).
+[Check out my cv](charles-t-gray-cv.pdf).
 
 ### Supermetroid speedrunners' analysis
 

@@ -4,7 +4,7 @@
 
 Senior Data Strategist | Infrastructure Consultant | [FAIR](https://www.go-fair.org/fair-principles/) Data Advocate | Data Storyteller
 
-Aarhus, Denmark | She/her
+ACT, Canberra | She/her
 
  [GitHub](https://github.com/softloud) | [Publications](https://scholar.google.com/citations?user=7ZGTepkAAAAJ&hl=en) | [Data Storytelling Portfolio](README.md) 
 
